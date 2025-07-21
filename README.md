@@ -7,10 +7,11 @@
 <p align="center">Building innovative solutions, sharing knowledge, and solving real-world problems through code.</p>
 
 <div align="center">
-  <img alt="Discord User" src="https://img.shields.io/badge/Discord-cato.dev-5865F2?logo=discord&logoColor=white">
-  <img alt="GitHub Followers" src="https://img.shields.io/github/followers/Catriel42?style=social">
-  <img alt="GitHub Stars" src="https://img.shields.io/github/stars/Catriel42?style=social">
+  <img alt="Discord User" src="https://img.shields.io/badge/Discord-cato.dev-5865F2?logo=discord&logoColor=white&cacheBust=1">
+  <img alt="GitHub Followers" src="https://img.shields.io/github/followers/Catriel42?style=social&cacheBust=1">
+  <img alt="GitHub Stars" src="https://img.shields.io/github/stars/Catriel42?style=social&cacheBust=1">
 </div>
+
 
 ## **About Me**:
 

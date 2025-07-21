@@ -1,0 +1,25 @@
+{
+    "username": "Catriel Pereira (Catriel42)",
+    "description": "Software Developer Enginneer Student",
+    "uptime": "1.6 years",
+    "age": "22 years",
+    "host": "Jala University",
+    "kernel": "Backend, Deep Learning, and AI",
+    "languages": {
+    "programming": ["Python", "Java", "C#", "JS/TS (Learning)"],
+    "real": ["Spanish (Native)", "English (B2 Improving)"]
+    },
+    "tools": {
+    "frontend": ["HTML", "CSS", "JS", "React(Learning)"],
+    "backend": ["Spring Boot", "MySQL", "MongoDB"]
+    },
+    "hobbies": {
+    "hardware": ["Athletics", "Cycling", "Reading", "Puzzles"],
+    "software": ["Computer Sciences", "Algorithms", "ML/IA"]
+    },
+    "contact": {
+    "linkedin": "in/catriel-pereira",
+    "email": "catopereira72@gmail.com"
+    }
+}
+

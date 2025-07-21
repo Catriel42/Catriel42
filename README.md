@@ -117,3 +117,5 @@ I enjoy working with agile methodologies, sharing what I learn, and developing p
 - Do you have a cool idea to develop?
 - Want to learn or teach programming?
 - Need technical help or feedback?
+
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Catriel42" />

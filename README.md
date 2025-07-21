@@ -76,7 +76,7 @@ I enjoy working with agile methodologies, sharing what I learn, and developing p
 </td>
 <td align="center">
   <img alt="Catriel42's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=Catriel42&show_icons=true&theme=dark" />
-  <img alt="GitHub Streak" src="https://streak-stats.demolab.com/?user=Catriel42&theme=dark" />
+  <img alt="GitHub Streak" src="https://streak-stats.demolab.com/?user=Catriel42&theme=dark">
   <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Catriel42&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=true" height="140" alt="Languages Graph"/>
 </td>

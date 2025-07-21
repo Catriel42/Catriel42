@@ -1,5 +1,5 @@
 <div align="center">
-  <img alt="Inspirado en ema28pro" src="Tarjeta de Visita Programador Web Creativa Azul.svg" alt="Tarjeta de Visita" width="100%">
+  <img alt="Inspirado en ema" src="Tarjeta de Visita Programador Web Creativa Azul.svg" alt="Tarjeta de Visita" width="100%">
 </div>
 
 <p align="center">Estudiante de Ingeniería de Software Comercial en Jala University, apasionado por el desarrollo de software, la inteligencia artificial y el aprendizaje continuo. 🌎</p>

@@ -7,7 +7,7 @@
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%2390b7c7&size=25&center=true&vCenter=true&width=600&height=100&lines=I'm+a+Student+at+Jala+University+%F0%9F%A7%A0;Self-taught+Backed+Developer,;Computer+Science+Student,;Active+Learner/Researcher,;Love+to+learn+new+stuffs..<3">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%2390b7c7&size=25&center=true&vCenter=true&width=600&height=100&lines=Welcome+to+my+profile!;I'm+a+software+engineering+Student+%F0%9F%A7%A0;Self-taught+Backed+Developer,;Computer+Science+Student,;Active+Learner/Researcher,;Love+to+learn+new+stuffs..<3">
   </a>
 </p>
 
@@ -49,14 +49,13 @@ I enjoy working with agile methodologies, sharing what I learn, and developing p
 
 [![HTML](https://skillicons.dev/icons?i=html)](https://www.w3schools.com/html)
 [![CSS](https://skillicons.dev/icons?i=css)](https://www.w3schools.com/css/)
+[![TailwindCSS](https://skillicons.dev/icons?i=tailwind)](https://tailwindcss.com)
 [![JavaScript](https://skillicons.dev/icons?i=js)](https://www.w3schools.com/js)
 [![NodeJs](https://skillicons.dev/icons?i=nodejs)](https://nodejs.org)
 [![Express](https://skillicons.dev/icons?i=express)](https://expressjs.com)
-[![React](https://skillicons.dev/icons?i=react)](https://react.dev)
-[![TailwindCSS](https://skillicons.dev/icons?i=tailwind)](https://tailwindcss.com)
-[![Spring Boot](https://skillicons.dev/icons?i=spring)](https://spring.io/projects/spring-boot)
-
 [![Python](https://skillicons.dev/icons?i=python)](https://www.python.org)
+[![React](https://skillicons.dev/icons?i=react)](https://react.dev)
+[![Spring Boot](https://skillicons.dev/icons?i=spring)](https://spring.io/projects/spring-boot)
 [![Java](https://skillicons.dev/icons?i=java)](https://www.java.com)
 
 ### 🗃 &nbsp;Others
@@ -64,14 +63,16 @@ I enjoy working with agile methodologies, sharing what I learn, and developing p
 [![MySQL](https://skillicons.dev/icons?i=mysql)](https://www.mysql.com)
 [![Git](https://skillicons.dev/icons?i=git)](https://git-scm.com)
 [![GitHub](https://skillicons.dev/icons?i=github)](https://github.com)
+[![GitLab](https://skillicons.dev/icons?i=gitlab)](https://gitlab.com)
 [![VSCode](https://skillicons.dev/icons?i=vscode)](https://code.visualstudio.com)
+[![IntelliJ IDEA](https://skillicons.dev/icons?i=idea)](https://www.jetbrains.com/idea/)
 [![Notion](https://skillicons.dev/icons?i=notion)](https://notion.so)
 [![Obsidian](https://skillicons.dev/icons?i=obsidian)](https://obsidian.md)
 <a href="https://trello.com/"><img alt="Trello" title="Trello" src="https://cdn.simpleicons.org/trello/0052CC" height="47"></a>
 
 <h3> Connect with me:</h3>
 <a href="https://www.linkedin.com/in/catriel-pereira/" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" height="40" alt="LinkedIn"></a>
-<a href="https://github.com/Catriel42" target="_blank"><img src="https://skillicons.dev/icons?i=github" height="40" alt="GitHub"></a>
+<a href="https://gitlab.com/Catriel21" target="_blank"><img src="https://skillicons.dev/icons?i=gitlab" height="40" alt="GitLab"></a>
 
 ---
 

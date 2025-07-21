@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="Tarjeta de Visita Programador Web Creativa Azul.svg" alt="Business Card" width="100%">
+  <img alt="Inspired from ema28pro" src="tarjeta-de-visita.svg" alt="Business Card" width="100%">
 </div>
 
 <p align="center">Commercial Software Engineering student at Jala University, passionate about software development, artificial intelligence, and continuous learning. 🌎</p>
@@ -19,15 +19,15 @@ I'm a Commercial Software Engineering student at Jala University with a strong i
 </p>
 
 <p>
-Beyond my technical focus, I have experience collaborating on multicultural academic projects with students from Colombia, Argentina, and Bolivia. I've also served as a teaching assistant in courses such as Calculus I, Calculus II, Discrete Mathematics, and Logic.
+Beyond my technical focus, I have experience collaborating on multicultural academic projects with students from Colombia, Argentina, and Bolivia. I've also served as a teaching assistant in courses such as Calculus I, Calculus II, Discrete Mathematics, and Logic with focus in software development.
 </p>
 
 <p>
-I enjoy working with agile methodologies, sharing what I learn, and developing projects that integrate knowledge from various domains such as chemistry, education, and artificial intelligence.
+I enjoy working with agile methodologies, sharing what I learn, and developing projects that integrate knowledge from various domains such as comercial software, education, and artificial intelligence.
 </p>
 
 <table align="right">
-<tr><td><a href="./README_es.md">Español</a></td></tr>
+<tr><td><a href="./README_es.md">Spanish</a></td></tr>
 <tr><td><a href="./README.md">English</a></td></tr>
 </table>
 
@@ -101,6 +101,7 @@ I enjoy working with agile methodologies, sharing what I learn, and developing p
 ### 🤝 Let's Connect
 
 📬 I'm open to collaborating and sharing ideas:
+
 - Do you have a cool idea to develop?
 - Want to learn or teach programming?
 - Need technical help or feedback?

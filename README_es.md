@@ -1,5 +1,5 @@
 <div align="center">
-  <img alt="Inspirado en ema" src="Tarjeta de Visita Programador Web Creativa Azul.svg" alt="Tarjeta de Visita" width="100%">
+  <img alt="Inspirado en ema28pro" src="tarjeta-de-visita.svg" alt="Tarjeta de Visita" width="100%">
 </div>
 
 <p align="center">Estudiante de Ingeniería de Software Comercial en Jala University, apasionado por el desarrollo de software, la inteligencia artificial y el aprendizaje continuo. 🌎</p>
@@ -19,11 +19,11 @@ Soy estudiante de Ingeniería de Software Comercial en Jala University, con una 
 </p>
 
 <p>
-Además de mi enfoque técnico, tengo experiencia colaborando en proyectos académicos multiculturales con estudiantes de Colombia, Argentina y Bolivia. También he sido auxiliar en materias como Cálculo I, Cálculo II, Matemáticas Discretas y Lógica.
+Además de mi enfoque técnico, tengo experiencia colaborando en proyectos académicos multiculturales con estudiantes de Colombia, Argentina y Bolivia. También he sido mentor en materias como Cálculo I, Cálculo II, Matemáticas Discretas y Lógica con enfoque en desarrollo de software.
 </p>
 
 <p>
-Me gusta trabajar con metodologías ágiles, compartir lo que aprendo y desarrollar proyectos que integren conocimientos de distintas áreas como la química, la educación y la inteligencia artificial.
+Me gusta trabajar con metodologías ágiles, compartir lo que aprendo y desarrollar proyectos que integren conocimientos de distintas áreas como el desarrollo de software comercial, la educación y la inteligencia artificial.
 </p>
 
 <table align="right">
@@ -57,7 +57,7 @@ Me gusta trabajar con metodologías ágiles, compartir lo que aprendo y desarrol
 [![Obsidian](https://skillicons.dev/icons?i=obsidian)](https://obsidian.md)
 <a href="https://trello.com/"><img alt="Trello" title="Trello" src="https://cdn.simpleicons.org/trello/0052CC" height="47"></a>
 
-<h3> Conecta conmigo:</h3>
+<h3> Contacta conmigo!:</h3>
 <a href="https://www.linkedin.com/in/catriel-pereira/" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" height="40" alt="LinkedIn"></a>
 <a href="https://github.com/Catriel42" target="_blank"><img src="https://skillicons.dev/icons?i=github" height="40" alt="GitHub"></a>
 
@@ -66,8 +66,6 @@ Me gusta trabajar con metodologías ágiles, compartir lo que aprendo y desarrol
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Catriel42&theme=lucent&area=true&hide_border=true&bg_color=0d1117&color=30a14e&line=10aa50&area_color=9be9a8">
 </div>
-
-> “Si no puedes explicarlo simple, no lo entiendes lo suficiente.” – Einstein
 
 <table align="center">
 <tr>
@@ -85,7 +83,7 @@ Me gusta trabajar con metodologías ágiles, compartir lo que aprendo y desarrol
 </tr>
 </table>
 
-### 🚀 Enfoque actual
+### 🚀 Principal foco actual
 
 - 📌 Dominar Spring Boot
 - 💬 Trabajando en un chat en tiempo real con Express.js

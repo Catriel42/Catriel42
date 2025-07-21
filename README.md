@@ -1,6 +1,5 @@
-<div align="center">
-   <img width=100% src=https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&reversal=true />
-</div>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:00c6ff,100:0072ff&reversal=true" />
+
 
 <div align="center">
   <img alt="Inspired from ema28pro" src="tarjeta-de-visita.svg" alt="Business Card" width="100%">

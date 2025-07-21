@@ -1,10 +1,12 @@
 <div align="center">
-   <img width=100% src=https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&reversal=true />
-</div>
-
-<div align="center">
   <img alt="Inspirado en ema28pro" src="tarjeta-de-visita.svg" alt="Tarjeta de Visita" width="100%">
 </div>
+
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%2390b7c7&size=25&center=true&vCenter=true&width=600&height=100&lines=I'm+a+Student+at+Jala+University+%F0%9F%A7%A0;Self-taught+Backed+Developer,;Computer+Science+Student,;Active+Learner/Researcher,;Love+to+learn+new+stuffs..<3">
+  </a>
+</p>
 
 <p align="center">Estudiante de Ingeniería de Software Comercial en Jala University, apasionado por el desarrollo de software, la inteligencia artificial y el aprendizaje continuo. 🌎</p>
 

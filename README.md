@@ -18,6 +18,7 @@
 <p align="center">Building innovative solutions, sharing knowledge, and solving real-world problems through code.</p>
 
 <div align="center">
+  <a href="https://wakatime.com/@1df4c617-0113-462b-9829-be217f70935e"><img src="https://wakatime.com/badge/user/1df4c617-0113-462b-9829-be217f70935e.svg" alt="Total time coded since Jul 21 2025" /></a>
   <img alt="Discord User" src="https://img.shields.io/badge/Discord-cato.dev-5865F2?logo=discord&logoColor=white&cacheBust=1">
   <img alt="GitHub Followers" src="https://img.shields.io/github/followers/Catriel42?style=social&cacheBust=1">
   <img alt="GitHub Stars" src="https://img.shields.io/github/stars/Catriel42?style=social&cacheBust=1">

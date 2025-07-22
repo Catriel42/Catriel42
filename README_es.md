@@ -115,3 +115,5 @@ Me gusta trabajar con metodologías ágiles, compartir lo que aprendo y desarrol
 - ¿Tienes una idea para desarrollar?
 - ¿Quieres aprender o enseñar programación?
 - ¿Tienes dudas técnicas o necesitas feedback?
+
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Catriel42" />

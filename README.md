@@ -89,10 +89,8 @@ I enjoy working with agile methodologies, sharing what I learn, and developing p
   <img src="https://www.twentyonepilots.wiki/assets/files/3lurr-6414dc4d97784ae5a328b24057e017ad.gif" title="Penguin" height="290"/>
 </td>
 <td align="center">
-  <img alt="Catriel42's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=Catriel42&show_icons=true&theme=dark" />
   <img alt="GitHub Streak" src="https://streak-stats.demolab.com/?user=Catriel42&theme=dark">
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Catriel42&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=true" height="140" alt="Languages Graph"/>
 </td>
 </tr>
 </table>
@@ -107,10 +105,6 @@ I enjoy working with agile methodologies, sharing what I learn, and developing p
 - 🧪 Deepening knowledge in testing and REST API design
 
 ---
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Catriel42&theme=dark&hide_border=true" alt="Wakatime Stats">
-</div>
 
 ### 🤝 Let's Connect
 

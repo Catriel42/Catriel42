@@ -27,7 +27,7 @@
     </td>
     <td align="center" valign="top" width="50%">
       <b>Frontend</b><br><br>
-      <img src="https://skillicons.dev/icons?i=angular,react,js,ts" alt="Frontend" />
+      <img src="https://skillicons.dev/icons?i=angular,rxjs,react,js,ts" alt="Frontend" />
     </td>
   </tr>
   <tr>

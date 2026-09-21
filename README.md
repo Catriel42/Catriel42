@@ -7,9 +7,11 @@
 
 <h2 align="center">Hey, I'm a Full-Stack developer with DevOps and Cloud skills</h2>
 
+[Download my CV](https://github.com/user-attachments/files/32477784/cv_catriel_pereira_torrez.pdf)
+
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-visit-1f6feb?style=for-the-badge)](https://TU-PORTFOLIO.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-visit-1f6feb?style=for-the-badge)](https://catodev-portfolio.vercel.app/)
 
 </div>
 
@@ -31,7 +33,7 @@
   <tr>
     <td align="center" valign="top" width="50%">
       <b>Cloud and DevOps</b><br><br>
-      <img src="https://skillicons.dev/icons?i=aws,docker,linux" alt="Cloud and DevOps" />
+      <img src="https://skillicons.dev/icons?i=aws,docker,linux,terraform" alt="Cloud and DevOps" />
     </td>
     <td align="center" valign="top" width="50%">
       <b>DevTools</b><br><br>

@@ -42,4 +42,21 @@
   </tr>
 </table>
 
+<h3>Certifications</h3>
+
+<table>
+  <tr>
+    <td align="center" valign="middle">
+      <a href="YOUR_CERTIFICATE_VERIFICATION_LINK">
+        <img src="https://images.credly.com/size/110x110/images/4d4693bb-530e-4bca-9327-de07f3aa2348/image.png" alt="AWS Certified AI Practitioner" width="100" />
+      </a>
+    </td>
+    <td valign="middle">
+      <b>AWS Certified AI Practitioner</b><br>
+      Amazon Web Services (AWS)<br>
+      <a href="https://www.credly.com/badges/27eb6ffe-8f43-4722-b97c-9c1ccf054ed4/public_url">View Certificate</a>
+    </td>
+  </tr>
+</table>
+
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Catriel42" />

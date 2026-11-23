@@ -35,11 +35,11 @@ anchorcolor = myred]{hyperref}
 \renewcommand\headrulewidth{0pt}
 \fancyhf{}
 \pagestyle{fancy}
-\cfoot{\makebox[\textwidth][c]{Catriel Pereira Torrez - CV}}
-\rfoot{\makebox[\textwidth][r]{\thepage /\pageref*{LastPage}}}
+\cfoot{\footnotesize Catriel Pereira Torrez -- CV}
+\rfoot{\footnotesize \thepage\ / \pageref*{LastPage}}
 
 % Set the page margins
-\geometry{letterpaper, portrait, margin=0.3in}
+\geometry{letterpaper, portrait, margin=0.6in, footskip=18pt}
 \setlength{\tabcolsep}{0in}
 
 \newcommand{\prof}[2]{Professor \textbf{\href{#1}{#2}}}
@@ -47,14 +47,14 @@ anchorcolor = myred]{hyperref}
 
 % Set section
 \titleformat{\section}
-{\raggedright\large\bfseries}{\thesection}{0em}{}[\vspace{-8pt}]
-\titlespacing*{\section}{0pt}{4pt}{3pt}
+{\raggedright\Large\bfseries}{\thesection}{0em}{}[\vspace{-4pt}\rule{\textwidth}{0.5pt}]
+\titlespacing*{\section}{0pt}{10pt}{6pt}
 
 % Experience description formatting
 \newcommand{\resumeItem}[1]{
-    \setlength{\baselineskip}{12pt}
+    \setlength{\baselineskip}{13pt}
 \item\small{
-        {#1 \vspace{-1pt}}
+        {#1}
     }
 }
 
@@ -64,7 +64,7 @@ anchorcolor = myred]{hyperref}
     \begin{tabular*}{\textwidth}[t]{l@{\extracolsep{\fill}}r}
         \textbf{#1} & #2 \\
         \textit{\small #3} & \textit{\small #4} \\
-    \end{tabular*}\vspace{-7pt}
+    \end{tabular*}\vspace{1pt}
 }
 
 
@@ -73,9 +73,9 @@ anchorcolor = myred]{hyperref}
 
 % Customize environment start and end
 \newcommand{\resumeSubHeadingListStart}{\begin{itemize}[leftmargin=0in, label={}]}
-\newcommand{\resumeSubHeadingListEnd}{\end{itemize}}
-\newcommand{\resumeItemListStart}{\begin{itemize}[leftmargin=0.13in]}
-\newcommand{\resumeItemListEnd}{\end{itemize}\vspace{-5pt}}
+\newcommand{\resumeSubHeadingListEnd}{\end{itemize}\vspace{2pt}}
+\newcommand{\resumeItemListStart}{\begin{itemize}[leftmargin=0.15in, itemsep=2pt, topsep=1pt]}
+\newcommand{\resumeItemListEnd}{\end{itemize}\vspace{3pt}}
 %-------------------------------------------
 
 

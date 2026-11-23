@@ -15,9 +15,8 @@
 \RequirePackage[english]{babel}
 \RequirePackage{latexsym}
 \RequirePackage{tabularx}
-% \RequirePackage{fontawesome}
 \RequirePackage[T1]{fontenc}
-% \RequirePackage{gentium}
+\renewcommand{\familydefault}{\sfdefault}
 \RequirePackage{titlesec}
 \RequirePackage{xcolor}
 \definecolor{myred}{RGB}{192,46,46}

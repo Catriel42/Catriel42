@@ -1,0 +1,67 @@
+%----------------------------------%
+% CV - Catriel Pereira Torrez
+% Based on the OpenCV template. Single column, ATS-friendly (no icons).
+%----------------------------------%
+
+\documentclass{OpenCV}
+
+% ATS: makes the PDF text copy/paste cleanly (accents, ligatures).
+% Works with pdfLaTeX. If you compile with XeLaTeX/LuaLaTeX, remove these 3 lines.
+\usepackage[T1]{fontenc}
+\input{glyphtounicode}
+\pdfgentounicode=1
+
+% Header
+\newlength{\hvspace}
+\setlength{\hvspace}{-10pt}
+
+\begin{document}
+
+\begin{center}
+    \noindent\textbf{\LARGE Catriel Pereira Torrez} \\
+\end{center}
+\vspace{\hvspace}
+\hrulefill
+\vspace{\hvspace}
+\begin{center}
+    \noindent Cochabamba, Bolivia \textbullet\ Email: \href{mailto:catopereira72@gmail.com}{catopereira72@gmail.com} \\
+    \noindent GitHub: \href{https://github.com/Catriel42}{github.com/Catriel42} \textbullet\ LinkedIn: \href{https://www.linkedin.com/in/catriel-pereira}{linkedin.com/in/catriel-pereira} \\
+\end{center}
+\vspace{\hvspace}
+\vspace{-4pt}
+\hrulefill
+\vspace{-12pt}
+
+% Summary
+\section*{Summary}
+Full-stack developer (.NET, Angular, TypeScript) and Software Engineering student building real-time, cloud-deployed apps on AWS. Leader of AWS AI User Group Bolivia. Seeking a junior full-stack role.
+
+% Experience
+\section*{Experience}
+\resumeSubHeadingListStart
+
+\resumeSubheading
+{AWS AI User Group Bolivia}{Bolivia}
+{User Group Leader}
+{2026 \textbf{-} Present}
+
+\begin{itemize}
+    \item Lead AWS AI User Group Bolivia, organizing community sessions on AWS and cloud topics and researching AWS AI services such as Amazon Bedrock AgentCore and Strands Agents SDK with .NET.
+    \item Submitted speaker proposals to a conference on Bedrock + AgentCore with .NET.
+\end{itemize}
+
+\resumeSubHeadingListEnd
+
+% Projects
+\input{project.tex}
+
+% Certifications
+\input{certifications.tex}
+
+% Education
+\input{education.tex}
+
+% Skills
+\input{misc.tex}
+
+\end{document}

@@ -38,7 +38,7 @@ anchorcolor = myred]{hyperref}
 \rfoot{\footnotesize \thepage\ / \pageref*{LastPage}}
 
 % Set the page margins
-\geometry{letterpaper, portrait, margin=0.6in, footskip=18pt}
+\geometry{letterpaper, portrait, margin=0.55in, footskip=15pt}
 \setlength{\tabcolsep}{0in}
 
 \newcommand{\prof}[2]{Professor \textbf{\href{#1}{#2}}}
@@ -47,7 +47,7 @@ anchorcolor = myred]{hyperref}
 % Set section
 \titleformat{\section}
 {\raggedright\large\bfseries}{\thesection}{0em}{}[\vspace{2pt}\titlerule]
-\titlespacing*{\section}{0pt}{10pt}{7pt}
+\titlespacing*{\section}{0pt}{8pt}{5pt}
 
 % Experience description formatting
 \newcommand{\resumeItem}[1]{

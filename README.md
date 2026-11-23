@@ -76,4 +76,4 @@
   </tr>
 </table>
 
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Catriel42" />
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Catriel42.Catriel42" />

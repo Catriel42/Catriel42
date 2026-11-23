@@ -46,7 +46,7 @@ anchorcolor = myred]{hyperref}
 
 % Set section
 \titleformat{\section}
-{\raggedright\large\bfseries}{\thesection}{0em}{}[\vspace{-6pt}\titlerule]
+{\raggedright\large\bfseries}{\thesection}{0em}{}[\vspace{2pt}\titlerule]
 \titlespacing*{\section}{0pt}{8pt}{4pt}
 
 % Experience description formatting

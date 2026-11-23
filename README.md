@@ -7,7 +7,7 @@
 
 <h2 align="center">Hey, I'm a Full-Stack developer with DevOps and Cloud skills</h2>
 
-[Download my CV](curriculums/base/cv.pdf)
+[Download my CV](https://raw.githubusercontent.com/Catriel42/Catriel42/main/curriculums/base/cv.pdf)
 
 <div align="center">
 

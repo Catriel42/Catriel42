@@ -47,7 +47,7 @@
 <table>
   <tr>
     <td align="center" valign="middle">
-      <a href="YOUR_CERTIFICATE_VERIFICATION_LINK">
+      <a href="https://www.credly.com/badges/27eb6ffe-8f43-4722-b97c-9c1ccf054ed4/public_url">
         <img src="https://images.credly.com/size/110x110/images/4d4693bb-530e-4bca-9327-de07f3aa2348/image.png" alt="AWS Certified AI Practitioner" width="100" />
       </a>
     </td>
@@ -55,6 +55,23 @@
       <b>AWS Certified AI Practitioner</b><br>
       Amazon Web Services (AWS)<br>
       <a href="https://www.credly.com/badges/27eb6ffe-8f43-4722-b97c-9c1ccf054ed4/public_url">View Certificate</a>
+    </td>
+  </tr>
+</table>
+
+<h3>Community & Leadership</h3>
+
+<table>
+  <tr>
+    <td align="center" valign="middle">
+      <a href="https://www.credly.com/badges/28d44865-cc97-4130-bd4e-8b81f242723f/public_url">
+        <img src="https://images.credly.com/size/110x110/images/1e8d730b-58fc-48b8-be32-cc8758f90229/blob" alt="AWS SBG Leader Badge" width="100" />
+      </a>
+    </td>
+    <td valign="middle">
+      <b>AWS SBG Leader Badge</b><br>
+      AWS Community<br>
+      <a href="https://www.credly.com/badges/28d44865-cc97-4130-bd4e-8b81f242723f/public_url">View Badge</a>
     </td>
   </tr>
 </table>

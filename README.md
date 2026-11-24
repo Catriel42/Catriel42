@@ -23,21 +23,21 @@
   <tr>
     <td align="center" valign="top" width="50%">
       <b>Backend</b><br><br>
-      <img src="https://skillicons.dev/icons?i=cs,dotnet,java,spring,nestjs" alt="Backend" />
+      <img src="https://skillicons.dev/icons?i=cs,dotnet,java,spring,nestjs,py,fastapi" alt="Backend" />
     </td>
     <td align="center" valign="top" width="50%">
       <b>Frontend</b><br><br>
-      <img src="https://skillicons.dev/icons?i=angular,rxjs,react,js,ts" alt="Frontend" />
+      <img src="https://skillicons.dev/icons?i=angular,rxjs,react,ts,tailwind" alt="Frontend" />
     </td>
   </tr>
   <tr>
     <td align="center" valign="top" width="50%">
-      <b>Cloud and DevOps</b><br><br>
-      <img src="https://skillicons.dev/icons?i=aws,docker,linux,terraform" alt="Cloud and DevOps" />
+      <b>Cloud & DevOps</b><br><br>
+      <img src="https://skillicons.dev/icons?i=aws,docker,linux,terraform" alt="Cloud & DevOps" />
     </td>
     <td align="center" valign="top" width="50%">
-      <b>DevTools</b><br><br>
-      <img src="https://skillicons.dev/icons?i=git,github,postgres,mongodb" alt="DevTools" />
+      <b>Databases & Tooling</b><br><br>
+      <img src="https://skillicons.dev/icons?i=postgres,redis,git,github" alt="Databases & Tooling" />
     </td>
   </tr>
 </table>
